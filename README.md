@@ -6,3 +6,5 @@ Skills practiced:
 - System configuration
 - Basic security setup
 - Troubleshooting
+- Networking Diagram
+  
